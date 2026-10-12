@@ -1,0 +1,9 @@
+
+streamlit
+google-genai
+pydantic
+email-validator
+pypdf
+python-docx
+python-dotenv
+pytest
